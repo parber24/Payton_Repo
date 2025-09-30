@@ -1,7 +1,7 @@
-# CMakeLists for the e2a analysis repository
+# CMakeLists for Payton's repository
 
 # Set up
-cmake_minimum_required (VERSION 3.0)
+cmake_minimum_required (VERSION 3.5)
 set(CMAKE_MODULE_PATH "${CMAKE_SOURCE_DIR}/cmake_modules")
 find_package(ROOT REQUIRED)
 
